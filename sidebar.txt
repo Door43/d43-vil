@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vil:home|Door43 (vil)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vil|d43-vil repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vil/archive/master.zip|d43-vil.zip]]
+
+**Recent Changes**
+{{changes>ns = vil}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vil|Ethnologue data]]
+
